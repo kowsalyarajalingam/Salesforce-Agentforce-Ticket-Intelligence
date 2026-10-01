@@ -38,5 +38,5 @@ This project delivers an autonomous customer support intelligence system built o
 ---
 
 ## 🔗 Deliverables & Links
-* **Project Report**: [View Documentation PDF](./CUSTOMER SUPPORT TICKET PRIORITY PREDICTION AND AUTOMATED ASSIGNMENT SYSTEM USING AGENTFORCE.pdf)
+* **Project Report**: [View Documentation PDF](./* **Project Report**: [View Documentation PDF](https://github.com/kowsalyarajalingam/Salesforce-Agentforce-Ticket-Intelligence/blob/main/Project_Report.pdf))
 * **Demo Video Link**: [Insert Your Google Drive or YouTube Video Link Here]
